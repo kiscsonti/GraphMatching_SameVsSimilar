@@ -1,0 +1,8 @@
+datasets
+torch
+transformers
+textblob
+sentence-transformers
+rdflib
+spacy
+protobuf

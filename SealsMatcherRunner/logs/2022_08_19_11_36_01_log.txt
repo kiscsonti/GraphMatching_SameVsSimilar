@@ -1,0 +1,11 @@
+'tuple' object does not support item assignment
+<class 'TypeError'>
+main.py
+83
+Traceback (most recent call last):
+  File "/tmp/meltSealsHome-3807785966152064496/oaei-resources/main.py", line 83, in match
+    exactmatch_altlabel_pool = ConfidenceOverrider(0.998).filter(exactmatch_altlabel_pool)
+  File "/tmp/meltSealsHome-3807785966152064496/oaei-resources/filters/confidence_override.py", line 13, in filter
+    row[3] = self.value
+TypeError: 'tuple' object does not support item assignment
+

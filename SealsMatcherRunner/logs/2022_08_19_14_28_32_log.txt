@@ -1,0 +1,11 @@
+too many values to unpack (expected 2)
+<class 'ValueError'>
+main.py
+87
+Traceback (most recent call last):
+  File "/tmp/meltSealsHome-5099330424880313561/oaei-resources/main.py", line 87, in match
+    exactmatch_unioned_pool = Unioner().union([exactmatch_label_pool, exactmatch_altlabel_pool])
+  File "/tmp/meltSealsHome-5099330424880313561/oaei-resources/unioners/unioner.py", line 15, in union
+    for alignment, conf in alignments:
+ValueError: too many values to unpack (expected 2)
+

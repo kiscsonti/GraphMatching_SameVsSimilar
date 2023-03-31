@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="deep1.inf.u-szeged.hu" id="2ba612a8-8015-4bb7-8df6-867da13134e1" port="22" nameFormat="DESCRIPTIVE" username="kardosp" />
+      <sshConfig authType="PASSWORD" host="deep2.inf.u-szeged.hu" id="2b0a8d14-1e19-4742-9f19-8914180a2ece" port="22" nameFormat="DESCRIPTIVE" username="kardosp" />
+    </configs>
+  </component>
+</project>
