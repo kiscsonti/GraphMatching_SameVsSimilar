@@ -4,7 +4,7 @@
 This repository contains the code to reproduce the results of the our paper.
 Due to the evaulation script being written in Java and our solution in Python it takes some extra steps to work.
 
-##Setup
+## Setup
 1. pip install -r pythonCompiler/oaei-resources/requirements.txt
 1. compile the pythonCompiler project using maven (```mvn package```)
 1. copy pythonCompiler/target/pythonCompiler-1.0-seals.zip to SealsMatcherRunner\src\main\resources\pythonCompiler-1.0-seals.zip
